@@ -3,6 +3,7 @@
 ## 1. Introducción
 
 Este documento explica el marco teórico que se utilizó para simular el impacto de las olas en una piscina sobre el rendimiento de un nadador, dependiendo del carril en que nada.
+Así mismo aquí encontrará bajos "simulación.py" el código de la implementación del modelo
 
 ---
 
